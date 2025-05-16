@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Donner au joueur une pousse d'arbre",
+  "hoc2020.agentClimb": "Agent monte",
+  "hoc2020.flipLever": "Agent interagit devant lui",
+  "hoc2020.leadRavager": "Diriger ravageur",
+  "hoc2020.moveAgent": "Déplacer agent",
+  "hoc2020.placeFence": "Agent place barreaux en fer",
+  "hoc2020.placePlanks": "Agent place bois au sol",
+  "hoc2020.placeRails": "Agent place rail au sol",
+  "hoc2020.tillSoil": "Agent laboure le sol",
+  "hoc2020.turnAgent": "Tourner l'agent",
+  "hoc2020Different.customRepeatLoop": "Répéter le code le nombre de fois indiqué",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

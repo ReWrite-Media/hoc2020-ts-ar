@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "给用户送树苗",
+  "hoc2020.agentClimb": "代理向上移动",
+  "hoc2020.flipLever": "代理机器人向前互动",
+  "hoc2020.leadRavager": "引领劫掠兽",
+  "hoc2020.moveAgent": "代理机器人移动",
+  "hoc2020.placeFence": "代理机器人放置铁栏杆",
+  "hoc2020.placePlanks": "代理机器人放下木板",
+  "hoc2020.placeRails": "代理机器人放下铁轨",
+  "hoc2020.tillSoil": "代理机器人耕地",
+  "hoc2020.turnAgent": "转向代理机器人",
+  "hoc2020Different.customRepeatLoop": "重复执行代码数次",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

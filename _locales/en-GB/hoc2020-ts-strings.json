@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "accept gift",
+  "hoc2020.agentClimb|block": "agent climb %n up",
+  "hoc2020.flipLever|block": "toggle lever",
+  "hoc2020.leadRavager|block": "lead ravager %n forward",
+  "hoc2020.moveAgent|block": "agent move %d by %n",
+  "hoc2020.placeFence|block": "place iron bars down",
+  "hoc2020.placePlanks|block": "move and place wood %n times",
+  "hoc2020.placeRails|block": "place rail below",
+  "hoc2020.tillSoil|block": "till and move forward %n times",
+  "hoc2020.turnAgent|block": "turn agent %t",
+  "hoc2020Different.customRepeatLoop|block": "repeat $n times",
+  "hoc2020Different|block": "HOC 2020 Cont",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

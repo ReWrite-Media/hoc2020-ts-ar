@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Dát hráči sazenici",
+  "hoc2020.agentClimb": "Agent se posune nahoru",
+  "hoc2020.flipLever": "Agent provede interakci vpřed",
+  "hoc2020.leadRavager": "Vést ničitele",
+  "hoc2020.moveAgent": "Agent se posune",
+  "hoc2020.placeFence": "Agent umístí železné mříže",
+  "hoc2020.placePlanks": "Agent položí dřevo",
+  "hoc2020.placeRails": "Agent položí kolejnici",
+  "hoc2020.tillSoil": "Agent zorá půdu",
+  "hoc2020.turnAgent": "Agent se otočí",
+  "hoc2020Different.customRepeatLoop": "Provést zadaný počet opakování kódu",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "플레이어에게 묘목 주기",
+  "hoc2020.agentClimb": "Agent 위로 이동",
+  "hoc2020.flipLever": "Agent 전방 상호작용",
+  "hoc2020.leadRavager": "파괴수 이동",
+  "hoc2020.moveAgent": "Agent 이동",
+  "hoc2020.placeFence": "Agent 철창 배치",
+  "hoc2020.placePlanks": "Agent 나무 배치",
+  "hoc2020.placeRails": "Agent 레일 배치",
+  "hoc2020.tillSoil": "Agent 흙 고르기",
+  "hoc2020.turnAgent": "Agent 회전",
+  "hoc2020Different.customRepeatLoop": "코드를 지정한 횟수만큼 반복합니다.",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

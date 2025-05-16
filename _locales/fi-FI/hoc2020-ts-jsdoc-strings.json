@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Anna pelaajalle taimi",
+  "hoc2020.agentClimb": "Agent liiku ylös",
+  "hoc2020.flipLever": "Agent vuorovaikuta eteenpäin",
+  "hoc2020.leadRavager": "Johda tuhokylvyriä",
+  "hoc2020.moveAgent": "Agent liiku",
+  "hoc2020.placeFence": "Agent aseta rautakalterit",
+  "hoc2020.placePlanks": "Agent aseta puu alas",
+  "hoc2020.placeRails": "Agent aseta raide alas",
+  "hoc2020.tillSoil": "Agent muokkaa maa",
+  "hoc2020.turnAgent": "Käännä agent",
+  "hoc2020Different.customRepeatLoop": "Toista koodi tarvittava määrä kertoja",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

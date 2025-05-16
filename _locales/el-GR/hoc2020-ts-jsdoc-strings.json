@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Δώσε δενδρύλλιο στον παίκτη",
+  "hoc2020.agentClimb": "Agent, προχώρησε επάνω",
+  "hoc2020.flipLever": "Agent, αλληλεπίδρασε μπροστά",
+  "hoc2020.leadRavager": "Οδήγησε τον όλεθρο",
+  "hoc2020.moveAgent": "Agent, προχώρησε",
+  "hoc2020.placeFence": "Agent, βάλε σιδερένια κάγκελα",
+  "hoc2020.placePlanks": "Agent, βάλε ξύλο κάτω",
+  "hoc2020.placeRails": "Agent, βάλε ράγα κάτω",
+  "hoc2020.tillSoil": "Agent, όργωσε χώμα",
+  "hoc2020.turnAgent": "Στρίψε τον Agent",
+  "hoc2020Different.customRepeatLoop": "Επανάληψη κώδικα τον καθορισμένο αριθμό φορών",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

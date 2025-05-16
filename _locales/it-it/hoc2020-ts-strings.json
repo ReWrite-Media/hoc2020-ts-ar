@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "accetta regalo",
+  "hoc2020.agentClimb|block": "agent sale in cima di %n",
+  "hoc2020.flipLever|block": "attiva leva",
+  "hoc2020.leadRavager|block": "guida predone %n in avanti",
+  "hoc2020.moveAgent|block": "sposta agent %d di %n",
+  "hoc2020.placeFence|block": "posiziona barre di ferro in basso",
+  "hoc2020.placePlanks|block": "sposta e posiziona il legno %n volte",
+  "hoc2020.placeRails|block": "posiziona binario in basso",
+  "hoc2020.tillSoil|block": "dissoda e sposta avanti %n volte",
+  "hoc2020.turnAgent|block": "gira agent %t",
+  "hoc2020Different.customRepeatLoop|block": "ripeti $n volte",
+  "hoc2020Different|block": "OdC 2020 Cont",
+  "hoc2020|block": "OdC 2020",
+  "{id:category}Hoc2020": "OdC2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Geef speler jong boompje",
+  "hoc2020.agentClimb": "Agent beweegt omhoog",
+  "hoc2020.flipLever": "Agent gebruikt voorliggende",
+  "hoc2020.leadRavager": "Verwoester leiden",
+  "hoc2020.moveAgent": "Agent bewegen",
+  "hoc2020.placeFence": "Agent plaatst ijzeren stangen",
+  "hoc2020.placePlanks": "Agent plaatst hout",
+  "hoc2020.placeRails": "Agent plaatst spoor",
+  "hoc2020.tillSoil": "Agent ploegt aarde om",
+  "hoc2020.turnAgent": "Draai de Agent",
+  "hoc2020Different.customRepeatLoop": "Herhaal code het opgegeven aantal keer",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "cadeau accepteren",
+  "hoc2020.agentClimb|block": "agent klimt %n omhoog",
+  "hoc2020.flipLever|block": "hendel omdraaien",
+  "hoc2020.leadRavager|block": "verwoester %n vooruit leiden",
+  "hoc2020.moveAgent|block": "agent beweegt %d bij %n",
+  "hoc2020.placeFence|block": "ijzeren stangen plaatsen",
+  "hoc2020.placePlanks|block": "bewegen en %n keer hout plaatsen",
+  "hoc2020.placeRails|block": "spoor plaatsen",
+  "hoc2020.tillSoil|block": "omploegen en %n keer naar voren bewegen",
+  "hoc2020.turnAgent|block": "agent %t draaien",
+  "hoc2020Different.customRepeatLoop|block": "$n keer herhalen",
+  "hoc2020Different|block": "HOC 2020 Vervolg",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

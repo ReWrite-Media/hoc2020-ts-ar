@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Giv spiller stikling",
+  "hoc2020.agentClimb": "Agent flyt op",
+  "hoc2020.flipLever": "Agent interager fremad",
+  "hoc2020.leadRavager": "Før ravager",
+  "hoc2020.moveAgent": "Agent flyt",
+  "hoc2020.placeFence": "Agent placer jerntremmer",
+  "hoc2020.placePlanks": "Agent placer træ ned",
+  "hoc2020.placeRails": "Agent placer skinner ned",
+  "hoc2020.tillSoil": "Agent kultiver jord",
+  "hoc2020.turnAgent": "Drej Agent",
+  "hoc2020Different.customRepeatLoop": "Gentag koden det angivne antal gange",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

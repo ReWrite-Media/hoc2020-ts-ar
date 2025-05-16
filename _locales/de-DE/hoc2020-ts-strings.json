@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "Geschenk annehmen",
+  "hoc2020.agentClimb|block": "Agent klettert %n hoch",
+  "hoc2020.flipLever|block": "Hebel umlegen",
+  "hoc2020.leadRavager|block": "Führender Verwüster %n vorwärts",
+  "hoc2020.moveAgent|block": "Agent %d um %n bewegen",
+  "hoc2020.placeFence|block": "Eisengitter ablegen",
+  "hoc2020.placePlanks|block": "bewegen und %n-mal Holz platzieren",
+  "hoc2020.placeRails|block": "Schiene darunter platzieren",
+  "hoc2020.tillSoil|block": "umgraben und %n-mal vorwärts bewegen",
+  "hoc2020.turnAgent|block": "Agent drehen %t",
+  "hoc2020Different.customRepeatLoop|block": "$n-mal wiederholen",
+  "hoc2020Different|block": "SDC 2020 Inhalt",
+  "hoc2020|block": "SDC 2020",
+  "{id:category}Hoc2020": "Sdc2020",
+  "{id:category}Hoc2020Different": "SDC2020Anders"
+}

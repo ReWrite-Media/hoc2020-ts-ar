@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Dar retoño al jugador",
+  "hoc2020.agentClimb": "Agent subir",
+  "hoc2020.flipLever": "Agent interactuar adelante",
+  "hoc2020.leadRavager": "Guiar devastador",
+  "hoc2020.moveAgent": "Mover Agent",
+  "hoc2020.placeFence": "Agent colocar barras de hierro",
+  "hoc2020.placePlanks": "Agent colocar madera",
+  "hoc2020.placeRails": "Agent colocar riel",
+  "hoc2020.tillSoil": "Agent arar suelo",
+  "hoc2020.turnAgent": "Girar Agent",
+  "hoc2020Different.customRepeatLoop": "Repite el código el número de veces especificado",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

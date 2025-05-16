@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Daj graczowi sadzonkę",
+  "hoc2020.agentClimb": "Agent: ruch w górę",
+  "hoc2020.flipLever": "Agent: interakcja do przodu",
+  "hoc2020.leadRavager": "Poprowadź niszczyciela",
+  "hoc2020.moveAgent": "Agent: ruch",
+  "hoc2020.placeFence": "Agent: umieść żelazne kraty",
+  "hoc2020.placePlanks": "Agent: umieść drewno",
+  "hoc2020.placeRails": "Agent: umieść tory",
+  "hoc2020.tillSoil": "Agent: zaoraj ziemię",
+  "hoc2020.turnAgent": "Obróć agenta",
+  "hoc2020Different.customRepeatLoop": "Powtórz kod określoną liczbę razy",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

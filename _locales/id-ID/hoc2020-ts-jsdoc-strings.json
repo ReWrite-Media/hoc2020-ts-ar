@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Berikan pohon muda ke pemain",
+  "hoc2020.agentClimb": "Agent bergerak naik",
+  "hoc2020.flipLever": "Agent berinteraksi maju",
+  "hoc2020.leadRavager": "Pimpin pembinasa",
+  "hoc2020.moveAgent": "Agent bergerak",
+  "hoc2020.placeFence": "Agent meletakkan Batang Besi",
+  "hoc2020.placePlanks": "Agent meletakkan kayu di bawah",
+  "hoc2020.placeRails": "Agent meletakkan rel di bawah",
+  "hoc2020.tillSoil": "Agent mengolah tanah",
+  "hoc2020.turnAgent": "Belokkan Agent",
+  "hoc2020Different.customRepeatLoop": "Ulangi pengkodean sebanyak yang ditentukan",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "ajándék elfogadása",
+  "hoc2020.agentClimb|block": "Agent, mászás felfelé: %n",
+  "hoc2020.flipLever|block": "kar működtetése",
+  "hoc2020.leadRavager|block": "romboló vezetése előre: %n",
+  "hoc2020.moveAgent|block": "agent mozgatása: %d/%n",
+  "hoc2020.placeFence|block": "vasrács lehelyezése",
+  "hoc2020.placePlanks|block": "mozgás és fa lehelyezése %n alkalommal",
+  "hoc2020.placeRails|block": "sín lehelyezése",
+  "hoc2020.tillSoil|block": "a talaj művelése és előrelépés %n alkalommal",
+  "hoc2020.turnAgent|block": "agent elforgatása, %t",
+  "hoc2020Different.customRepeatLoop|block": "ismétlés $n alkalommal",
+  "hoc2020Different|block": "HOC 2020, folytatás",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

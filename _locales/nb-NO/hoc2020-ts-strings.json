@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "ta imot gave",
+  "hoc2020.agentClimb|block": "agent klatre %n opp",
+  "hoc2020.flipLever|block": "manipuler spak",
+  "hoc2020.leadRavager|block": "før olmt beist %n fremover",
+  "hoc2020.moveAgent|block": "agent flytt %d av %n",
+  "hoc2020.placeFence|block": "legg ned jernstenger",
+  "hoc2020.placePlanks|block": "flytt og legg ned tre %n ganger",
+  "hoc2020.placeRails|block": "legg ned skinne",
+  "hoc2020.tillSoil|block": "bearbeid og flytt fremover %n ganger",
+  "hoc2020.turnAgent|block": "snu agent %t",
+  "hoc2020Different.customRepeatLoop|block": "gjenta $n ganger",
+  "hoc2020Different|block": "Kodetimen 2020 – Innhold",
+  "hoc2020|block": "Kodetimen 2020",
+  "{id:category}Hoc2020": "Kodetimen 2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

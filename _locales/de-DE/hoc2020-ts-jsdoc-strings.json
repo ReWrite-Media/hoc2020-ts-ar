@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Spieler Setzling geben",
+  "hoc2020.agentClimb": "Agent hochbewegen",
+  "hoc2020.flipLever": "Agent interagiert nach vorn",
+  "hoc2020.leadRavager": "Führender Verwüster",
+  "hoc2020.moveAgent": "Agent bewegen",
+  "hoc2020.placeFence": "Agent platziert Eisengitter",
+  "hoc2020.placePlanks": "Agent legt Holz ab",
+  "hoc2020.placeRails": "Agent legt Schiene ab",
+  "hoc2020.tillSoil": "Agent Boden umgraben",
+  "hoc2020.turnAgent": "Agent drehen",
+  "hoc2020Different.customRepeatLoop": "Wiederhole Code die angegebene Anzahl von Malen",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "給玩家樹苗",
+  "hoc2020.agentClimb": "Agent 向上移動",
+  "hoc2020.flipLever": "Agent 向前互動",
+  "hoc2020.leadRavager": "帶領劫毀獸",
+  "hoc2020.moveAgent": "Agent 移動",
+  "hoc2020.placeFence": "Agent 放置鐵欄杆",
+  "hoc2020.placePlanks": "Agent 放下木材",
+  "hoc2020.placeRails": "Agent 放下軌道",
+  "hoc2020.tillSoil": "Agent 耕耘土壤",
+  "hoc2020.turnAgent": "轉動 Agent",
+  "hoc2020Different.customRepeatLoop": "重複指定次數的代碼",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

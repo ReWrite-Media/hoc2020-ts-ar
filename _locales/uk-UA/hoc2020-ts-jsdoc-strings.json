@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Дати паросток гравцю",
+  "hoc2020.agentClimb": "Agent переміщується вгору",
+  "hoc2020.flipLever": "Agent штовхає вперед",
+  "hoc2020.leadRavager": "Спустошувача ведуть",
+  "hoc2020.moveAgent": "Agent переміщується",
+  "hoc2020.placeFence": "Agent кладе залізні ґрати",
+  "hoc2020.placePlanks": "Agent кладе деревину",
+  "hoc2020.placeRails": "Agent кладе колію",
+  "hoc2020.tillSoil": "Agent оре землю",
+  "hoc2020.turnAgent": "Повернути Agent",
+  "hoc2020Different.customRepeatLoop": "Повторювати код указану кількість разів",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

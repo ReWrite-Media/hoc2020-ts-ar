@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "приемане на подарък",
+  "hoc2020.agentClimb|block": "изкачване на agent с %n",
+  "hoc2020.flipLever|block": "превключване на лост",
+  "hoc2020.leadRavager|block": "отвеждане на опустошител с %n напред",
+  "hoc2020.moveAgent|block": "преместване на agent %d с %n",
+  "hoc2020.placeFence|block": "оставяне на железните пръти",
+  "hoc2020.placePlanks|block": "преместване и поставяне на дърво %n пъти",
+  "hoc2020.placeRails|block": "поставяне на релса отдолу",
+  "hoc2020.tillSoil|block": "прекопаване и придвижване напред %n пъти",
+  "hoc2020.turnAgent|block": "обръщане на agent %t",
+  "hoc2020Different.customRepeatLoop|block": "повтаряне $n пъти",
+  "hoc2020Different|block": "HOC 2020 Cont",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

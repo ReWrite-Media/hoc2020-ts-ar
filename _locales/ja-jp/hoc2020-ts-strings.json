@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "ギフトを受け取る",
+  "hoc2020.agentClimb|block": "Agent に %n を登らせる",
+  "hoc2020.flipLever|block": "レバーを動かす",
+  "hoc2020.leadRavager|block": "ラヴェジャーを %n 誘導する",
+  "hoc2020.moveAgent|block": "Agent に %d を %n 移動させる",
+  "hoc2020.placeFence|block": "鉄格子を置く",
+  "hoc2020.placePlanks|block": "移動して木を %n 回置く",
+  "hoc2020.placeRails|block": "レールを置く",
+  "hoc2020.tillSoil|block": "耕して %n 回移動させる",
+  "hoc2020.turnAgent|block": "Agent を %t に回転させる",
+  "hoc2020Different.customRepeatLoop|block": "$n 回繰り返す",
+  "hoc2020Different|block": "HOC 2020 Cont",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

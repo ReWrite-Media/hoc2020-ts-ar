@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "przyjmij prezent",
+  "hoc2020.agentClimb|block": "agent: wespnij się o %n",
+  "hoc2020.flipLever|block": "przestaw dźwignię",
+  "hoc2020.leadRavager|block": "poprowadź niszczyciela do przodu o %n",
+  "hoc2020.moveAgent|block": "agent: przesuń %d o %n",
+  "hoc2020.placeFence|block": "umieść żelazne kraty",
+  "hoc2020.placePlanks|block": "przemieść się i umieść drewno %n razy",
+  "hoc2020.placeRails|block": "umieść tory poniżej",
+  "hoc2020.tillSoil|block": "zaoraj i rusz się naprzód %n razy",
+  "hoc2020.turnAgent|block": "obróć agenta o %t",
+  "hoc2020Different.customRepeatLoop|block": "powtórz $n razy",
+  "hoc2020Different|block": "HOC 2020 kontynuacja",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Różne"
+}

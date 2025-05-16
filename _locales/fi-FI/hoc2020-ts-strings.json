@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "ota lahja vastaan",
+  "hoc2020.agentClimb|block": "Agent kiipeä %n ylös",
+  "hoc2020.flipLever|block": "vaihtovipu",
+  "hoc2020.leadRavager|block": "johda tuhokylvyriä %n eteenpäin",
+  "hoc2020.moveAgent|block": "Agent liiku %d ja %n",
+  "hoc2020.placeFence|block": "aseta rautakalterit alas",
+  "hoc2020.placePlanks|block": "liiku ja aseta puuta %n kertaa",
+  "hoc2020.placeRails|block": "aseta raide alle",
+  "hoc2020.tillSoil|block": "muokkaa maata ja liiku eteenpäin %n kertaa",
+  "hoc2020.turnAgent|block": "käännä Agent %t",
+  "hoc2020Different.customRepeatLoop|block": "toista $n kertaa",
+  "hoc2020Different|block": "TK 2020 -sisältö",
+  "hoc2020|block": "TK 2020",
+  "{id:category}Hoc2020": "Tk2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

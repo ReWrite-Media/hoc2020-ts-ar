@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "acceptér gave",
+  "hoc2020.agentClimb|block": "agent kravl %n op",
+  "hoc2020.flipLever|block": "træk i håndtag",
+  "hoc2020.leadRavager|block": "før ravager %n fremad",
+  "hoc2020.moveAgent|block": "agent flyt %n %d",
+  "hoc2020.placeFence|block": "placer jerntremmer ned",
+  "hoc2020.placePlanks|block": "flyt og placer træ %n gange",
+  "hoc2020.placeRails|block": "placer skinner under",
+  "hoc2020.tillSoil|block": "kultiver og flyt fremad %n gange",
+  "hoc2020.turnAgent|block": "drej agent %t",
+  "hoc2020Different.customRepeatLoop|block": "gentag $n gange",
+  "hoc2020Different|block": "HOC 2020 indh",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Variant"
+}

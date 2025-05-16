@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "aceptar regalo",
+  "hoc2020.agentClimb|block": "agent escalar %n",
+  "hoc2020.flipLever|block": "activar palanca",
+  "hoc2020.leadRavager|block": "guiar devastador %n adelante",
+  "hoc2020.moveAgent|block": "mover agent %d por %n",
+  "hoc2020.placeFence|block": "colocar barras de hierro",
+  "hoc2020.placePlanks|block": "mover y colocar madera %n veces",
+  "hoc2020.placeRails|block": "colocar riel",
+  "hoc2020.tillSoil|block": "arar y avanzar %n veces",
+  "hoc2020.turnAgent|block": "girar agent %t",
+  "hoc2020Different.customRepeatLoop|block": "repetir $n veces",
+  "hoc2020Different|block": "Cont. HDC 2020",
+  "hoc2020|block": "HDC 2020",
+  "{id:category}Hoc2020": "HdC2020",
+  "{id:category}Hoc2020Different": "HdC2020Diferente"
+}

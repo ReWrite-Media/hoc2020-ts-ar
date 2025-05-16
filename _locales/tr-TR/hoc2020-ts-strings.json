@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "hediye kabul et",
+  "hoc2020.agentClimb|block": "agent %n yukarı tırman",
+  "hoc2020.flipLever|block": "şalteri aç kapat",
+  "hoc2020.leadRavager|block": "çapulcuyu %n ileri götür",
+  "hoc2020.moveAgent|block": "agent %d kez %n taşı",
+  "hoc2020.placeFence|block": "alta demir çubuk yerleştir",
+  "hoc2020.placePlanks|block": "%n kez tahta taşı ve yerleştir",
+  "hoc2020.placeRails|block": "alta ray yerleştir",
+  "hoc2020.tillSoil|block": "%n kez sür ve ileri taşı",
+  "hoc2020.turnAgent|block": "agent %t döndür",
+  "hoc2020Different.customRepeatLoop|block": "$n kez tekrarla",
+  "hoc2020Different|block": "HOC 2020 Devam",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Farklı"
+}

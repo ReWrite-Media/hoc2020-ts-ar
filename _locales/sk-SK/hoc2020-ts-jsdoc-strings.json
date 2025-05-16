@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Dať hráčovi sadenicu",
+  "hoc2020.agentClimb": "Agent, presuň sa nahor",
+  "hoc2020.flipLever": "Agent, interakcia vpredu",
+  "hoc2020.leadRavager": "Viesť ničiteľa",
+  "hoc2020.moveAgent": "Agent, presuň sa",
+  "hoc2020.placeFence": "Agent, umiestni železné mreže",
+  "hoc2020.placePlanks": "Agent, polož drevo na zem",
+  "hoc2020.placeRails": "Agent, polož koľajnicu na zem",
+  "hoc2020.tillSoil": "Agent, obrob pôdu",
+  "hoc2020.turnAgent": "Otočiť agenta",
+  "hoc2020Different.customRepeatLoop": "Opakujte kód toľkokrát, ako je uvedené",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

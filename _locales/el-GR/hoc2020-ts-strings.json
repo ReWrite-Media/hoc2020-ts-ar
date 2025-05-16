@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "δέξου το δώρο",
+  "hoc2020.agentClimb|block": "agent, σκαρφάλωσε %n επάνω",
+  "hoc2020.flipLever|block": "ενεργοποίησε τον μοχλό",
+  "hoc2020.leadRavager|block": "οδήγησε τον όλεθρο %n μπροστά",
+  "hoc2020.moveAgent|block": "agent, προχώρησε %d κατά %n",
+  "hoc2020.placeFence|block": "βάλε σιδερένια κάγκελα κάτω",
+  "hoc2020.placePlanks|block": "προχώρησε και βάλε ξύλο %n φορές",
+  "hoc2020.placeRails|block": "βάλε ράγα κάτω",
+  "hoc2020.tillSoil|block": "όργωσε και προχώρησε μπροστά %n φορές",
+  "hoc2020.turnAgent|block": "στρίψε τον agent %t",
+  "hoc2020Different.customRepeatLoop|block": "επανάλαβε $n φορές",
+  "hoc2020Different|block": "Περιεχόμενο της Ώρας του Κώδικα 2020",
+  "hoc2020|block": "Ώρα του Κώδικα 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

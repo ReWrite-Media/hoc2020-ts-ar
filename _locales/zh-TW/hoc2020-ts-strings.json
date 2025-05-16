@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "接受禮物",
+  "hoc2020.agentClimb|block": "Agent 向上爬 %n",
+  "hoc2020.flipLever|block": "切換拉桿",
+  "hoc2020.leadRavager|block": "帶領劫毀獸前進 %n",
+  "hoc2020.moveAgent|block": "Agent 向 %n 移動 %d",
+  "hoc2020.placeFence|block": "放下鐵欄杆",
+  "hoc2020.placePlanks|block": "移動和放置木材 %n 次",
+  "hoc2020.placeRails|block": "將軌道放在下方",
+  "hoc2020.tillSoil|block": "耕耘和前進 %n 次",
+  "hoc2020.turnAgent|block": "轉動 Agent %t",
+  "hoc2020Different.customRepeatLoop|block": "重複 $n 次",
+  "hoc2020Different|block": "HOC 2020 Cont。",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020Different"
+}

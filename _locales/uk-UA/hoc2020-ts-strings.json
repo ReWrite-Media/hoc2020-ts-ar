@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "прийняти подарунок",
+  "hoc2020.agentClimb|block": "Agent піднімається %n угору",
+  "hoc2020.flipLever|block": "переключити важіль",
+  "hoc2020.leadRavager|block": "вести спустошувача %n уперед",
+  "hoc2020.moveAgent|block": "переміщення Agent %d на %n",
+  "hoc2020.placeFence|block": "покласти залізні ґрати",
+  "hoc2020.placePlanks|block": "перемістити й покласти деревину %n разів",
+  "hoc2020.placeRails|block": "покласти колію",
+  "hoc2020.tillSoil|block": "орати й перемістити вперед %n разів",
+  "hoc2020.turnAgent|block": "повернути Agent %t",
+  "hoc2020Different.customRepeatLoop|block": "повторити $n разів",
+  "hoc2020Different|block": "Зміст Години програмування 2020",
+  "hoc2020|block": "Година програмування 2020",
+  "{id:category}Hoc2020": "ГодинаПрограмування2020",
+  "{id:category}Hoc2020Different": "ІншаГодинаПрограмування2020"
+}

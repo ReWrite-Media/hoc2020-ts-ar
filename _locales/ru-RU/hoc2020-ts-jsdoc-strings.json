@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Дать игроку саженец",
+  "hoc2020.agentClimb": "Agent: движение вверх",
+  "hoc2020.flipLever": "Agent: взаимодействие спереди",
+  "hoc2020.leadRavager": "Вести разрушителя",
+  "hoc2020.moveAgent": "Agent: движение",
+  "hoc2020.placeFence": "Agent: размещение железной решетки",
+  "hoc2020.placePlanks": "Agent: размещение древесины внизу",
+  "hoc2020.placeRails": "Agent: размещение рельса внизу",
+  "hoc2020.tillSoil": "Agent: вспашка земли",
+  "hoc2020.turnAgent": "Поворот Agent",
+  "hoc2020Different.customRepeatLoop": "Повторите код указанное количество раз",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

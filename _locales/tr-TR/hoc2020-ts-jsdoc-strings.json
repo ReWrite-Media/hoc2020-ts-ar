@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Oyuncuya fidan ver",
+  "hoc2020.agentClimb": "Agent yukarı taşı",
+  "hoc2020.flipLever": "Agent ileri etkileşim",
+  "hoc2020.leadRavager": "Çapulcuyu götür",
+  "hoc2020.moveAgent": "Agent taşı",
+  "hoc2020.placeFence": "Agent Demir Çubuk yerleştir",
+  "hoc2020.placePlanks": "Agent alta tahta yerleştir",
+  "hoc2020.placeRails": "Agent alta ray yerleştir",
+  "hoc2020.tillSoil": "Agent toprağı sür",
+  "hoc2020.turnAgent": "Agent döndür",
+  "hoc2020Different.customRepeatLoop": "Kodu belirtilen sayıda tekrarla",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}

@@ -1,0 +1,17 @@
+{
+  "hoc2020.acceptGift|block": "선물 수락",
+  "hoc2020.agentClimb|block": "Agent 타고 오르기 %n회",
+  "hoc2020.flipLever|block": "손잡이 전환",
+  "hoc2020.leadRavager|block": "파괴수 앞으로 이동 %n회",
+  "hoc2020.moveAgent|block": "Agent %d 이동시키기 %n회",
+  "hoc2020.placeFence|block": "아래에 철창 놓기",
+  "hoc2020.placePlanks|block": "이동 후 나무 배치 %n회",
+  "hoc2020.placeRails|block": "아래에 레일 놓기",
+  "hoc2020.tillSoil|block": "경작 후 앞으로 이동 %n회",
+  "hoc2020.turnAgent|block": "Agent 회전 %t",
+  "hoc2020Different.customRepeatLoop|block": "$n회 반복",
+  "hoc2020Different|block": "HOC 2020 계속",
+  "hoc2020|block": "HOC 2020",
+  "{id:category}Hoc2020": "Hoc2020",
+  "{id:category}Hoc2020Different": "Hoc2020차별화"
+}

@@ -1,0 +1,14 @@
+{
+  "hoc2020.acceptGift": "Facsemete ajándékozása a játékosnak",
+  "hoc2020.agentClimb": "Agent mozgatása felfelé",
+  "hoc2020.flipLever": "Agent, interakció előre",
+  "hoc2020.leadRavager": "Romboló vezetése",
+  "hoc2020.moveAgent": "Agent mozgatása",
+  "hoc2020.placeFence": "Agent, vasrudak lehelyezése",
+  "hoc2020.placePlanks": "Agent, fa lehelyezése",
+  "hoc2020.placeRails": "Agent, sín lehelyezése",
+  "hoc2020.tillSoil": "Agent, a talaj megművelése",
+  "hoc2020.turnAgent": "Agent elforgatása",
+  "hoc2020Different.customRepeatLoop": "Ismételd meg a kódot a megadott számú alkalommal",
+  "_hoc2020Different.customRepeatLoop.comment": "dev comments test"
+}
