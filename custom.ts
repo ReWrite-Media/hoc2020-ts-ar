@@ -21,7 +21,7 @@ namespace hoc2020 {
     /**
      * Agent till soil
      */
-    //% block=" حرث وتحريك للأمام بمقدار مرات %n"
+    //% block="حرث وتحريك للأمام بمقدار %n مرات"
     //% n.defl=1 
     export function tillSoil(n: number): void{
         for (let i = 0; i < n; i++){
@@ -36,7 +36,7 @@ namespace hoc2020 {
     /**
      * Agent place wood down
      */
-    //% block="تحريك ووضع لوح الخشب بمقدارمرات %n "
+    //% block="تحريك ووضع لوح الخشب بمقدار %n مرات "
     //% n.defl=1 
     export function placePlanks(n: number): void{
 
@@ -60,7 +60,7 @@ namespace hoc2020 {
     /**
      * Lead ravager
      */
-    //% block="توجيه المدمر  للأمام بمقدار مرات %n"
+    //% block="توجيه المدمر  للأمام بمقدار %n مرات"
     //% n.defl=1 
     export function leadRavager(n: number): void{
 
