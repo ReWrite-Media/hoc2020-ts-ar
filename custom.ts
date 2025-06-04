@@ -21,7 +21,7 @@ namespace hoc2020 {
     /**
      * Agent till soil
      */
-    //% block="حرث وتحريك للأمام بمقدار %n مرات"
+    //% block="حرث وتحريك للأمام بمقدار %n"
     //% n.defl=1 
     export function tillSoil(n: number): void{
         for (let i = 0; i < n; i++){
@@ -36,7 +36,7 @@ namespace hoc2020 {
     /**
      * Agent place wood down
      */
-    //% block="تحريك ووضع لوح الخشب بمقدار %n مرات "
+    //% block="تحريك ووضع لوح الخشب بمقدار %n "
     //% n.defl=1 
     export function placePlanks(n: number): void{
 
@@ -60,7 +60,7 @@ namespace hoc2020 {
     /**
      * Lead ravager
      */
-    //% block="توجيه المدمر  للأمام بمقدار %n مرات"
+    //% block="توجيه المدمر  للأمام بمقدار %n"
     //% n.defl=1 
     export function leadRavager(n: number): void{
 
@@ -73,7 +73,7 @@ namespace hoc2020 {
     /**
      * Agent move
      */
-    //% block="تحريك الروبوت %d بمقدار %n مرات"
+    //% block="تحريك الروبوت %d بمقدار %n"
     //% n.defl=1 
     export function moveAgent(d: SixDirection, n: number): void{
         for (let i = 0; i < n; i++){
@@ -84,7 +84,7 @@ namespace hoc2020 {
     /**
      * Agent move up
      */
-    //% block="يتسلق الروبوت للأعلى بمقدار %n مرات"
+    //% block="يتسلق الروبوت للأعلى بمقدار %n"
     //% n.defl=1 
     export function agentClimb(n: number): void{
 
@@ -120,7 +120,7 @@ namespace hoc2020Different {
     /**
      * Repeat code the specified number of times
      */
-    //% block="تكرار بمقدار $n مرات"
+    //% block="تكرار بمقدار $n"
     //% n.defl=2
     //% handlerStatement=1
     //% draggableParameters="reporter"
